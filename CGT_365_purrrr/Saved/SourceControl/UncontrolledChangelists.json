@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Rossiter/Documents/GitHub/Carcosa-Games/CGT_365_purrrr/Content/ThirdPerson/Blueprints/BP_EnemyBase.uasset",
+				"C:/Users/Rossiter/Documents/GitHub/Carcosa-Games/CGT_365_purrrr/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Rossiter/Documents/GitHub/Carcosa-Games/CGT_365_purrrr/Content/ThirdPerson/Blueprints/BP_TempAttack.uasset",
+				"C:/Users/Rossiter/Documents/GitHub/Carcosa-Games/CGT_365_purrrr/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/6D/7VBELI2WC3LWK5X1YRBGYY.uasset",
+				"C:/Users/Rossiter/Documents/GitHub/Carcosa-Games/CGT_365_purrrr/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/Z3/Z6WSBF49T7JP94N09SVF8K.uasset",
+				"C:/Users/Rossiter/Documents/GitHub/Carcosa-Games/CGT_365_purrrr/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/WK/G5MQI8FUAQW6G8J2X71QBS.uasset",
 				"C:/Users/washn/OneDrive/Documents/GitHub/Carcosa-Games/CGT_365_purrrr/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/N2/3DK5V3TR3SU2XQI8ED2GEG.uasset",
 				"C:/Users/washn/OneDrive/Documents/GitHub/Carcosa-Games/CGT_365_purrrr/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
 				"C:/Users/washn/OneDrive/Documents/GitHub/Carcosa-Games/CGT_365_purrrr/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/SU/MJVG7A34IF5L0CTVUN496D.uasset",
